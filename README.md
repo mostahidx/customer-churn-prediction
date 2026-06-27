@@ -233,7 +233,7 @@ The PCA visualization reveals distinct customer segments with different characte
 consumer-classification-prediction/
 ├── README.md                              # This file
 ├── consumer_classification.py              # Python script version
-├── CSE422_Final_Lab_Project.ipynb         # Jupyter notebook (full implementation)
+├── Project.ipynb         # Jupyter notebook (full implementation)
 ├── consumer_classification_dataset.csv    # Dataset (if included)
 └── requirements.txt                       # Python dependencies
 ```
@@ -266,7 +266,7 @@ consumer-classification-prediction/
    
    Or open the Jupyter notebook:
    ```bash
-   jupyter notebook CSE422_Final_Lab_Project.ipynb
+   jupyter notebook Project.ipynb
    ```
 
 ---
@@ -369,11 +369,6 @@ See `requirements.txt` for exact versions.
 
 ---
 
-## 📧 Contact
-
-For questions or suggestions regarding this project:
-- **Md. Mostahid Hasan** - mostahid.hasan@bracu.ac.bd
-- **Yuki Barua** - yuki.barua@bracu.ac.bd
 
 ---
 
@@ -391,5 +386,5 @@ This project is provided for educational purposes as part of the CSE422 course a
 
 ---
 
-**Last Updated:** June 2024  
+**Last Updated:** June 2025  
 **Project Status:** ✅ Complete
